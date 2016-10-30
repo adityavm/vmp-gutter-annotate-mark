@@ -6,7 +6,7 @@ A plugin for [vim-mode-plus][1] that adds a mark specific class to the gutter so
 
 # Usage
 
-This plug needs the excellent [vim-mode-plus][1] plugin. Once you've installed it, install this plugin and then set marks as usual (with `m`).
+This plugin needs the excellent [vim-mode-plus][1] plugin. Once you've installed it, install this plugin and then set marks as usual (with `m`).
 
 Included is a "literal" theme which marks the gutter literally, i.e. it puts the name of the mark in the gutter. You can overwrite this in your user stylesheet to suit your preference.
 
