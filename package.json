@@ -2,9 +2,9 @@
   "name": "vmp-gutter-annotate-mark",
   "main": "./lib/main",
   "version": "0.2.1",
-  "description": "Add classes to gutter when using marks that cab be styled.",
+  "description": "Add classes to gutter when using marks that can be styled.",
   "keywords": [],
-  "repository": "https://gitlab.com/adityavm/vmp-gutter-annotate-mark",
+  "repository": "https://github.com/adityavm/vmp-gutter-annotate-mark",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
