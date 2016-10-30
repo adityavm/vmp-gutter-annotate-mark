@@ -2,7 +2,7 @@
 
 A plugin for [vim-mode-plus][1] that adds a mark specific class to the gutter so that it can be specially styled.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/adityavm/vmp-gutter-annotate-mark/master/screenshot.png)
 
 # Usage
 
